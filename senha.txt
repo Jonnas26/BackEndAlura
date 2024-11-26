@@ -1,0 +1,4 @@
+AIzaSyCZtgDwaFCymhiMEv3KiZikj7nR7mksQa4
+jonnaslourenzzo -- ytodTR1Zo17JrU3n
+
+mongodb+srv://jonnaslourenzzo:ytodTR1Zo17JrU3n@cluster0.9mc1t.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
